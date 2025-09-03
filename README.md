@@ -345,7 +345,7 @@ app.exec()
 
 ***
 ## QtDesigner
-
+Link to download :https://build-system.fman.io/qt-designer-download
 Command to convert .ui file to .py file 
 ```
 pyuic6 login.ui -o login.py
